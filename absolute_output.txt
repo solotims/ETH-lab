@@ -1,0 +1,5 @@
+Median 0.063
+Range 0.353
+Mean 0.080
+Variance 0.004
+Standart deviation 0.063

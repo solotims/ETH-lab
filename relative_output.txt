@@ -1,0 +1,5 @@
+Median 3.046
+Range 15.008
+Mean 3.759
+Variance 7.982
+Standart deviation 2.825
